@@ -4,7 +4,7 @@
 ---
 ## DESCRIÇÃO DO PROJETO
 
-- O projeto consiste em simular a metodologia CRUD na estruturação de Sistema de Posts de Rede Social,criando e acessando informações de usuários e posts, sendo criado endpoints `GET` e `POST` para alimentar as demandas.
+- O projeto consiste em simular a metodologia CRUD na estruturação de Sistema de Posts de Rede Social, gerando e acessando informações de usuários e posts, sendo criado endpoints `GET` e `POST` para alimentar as demandas.
 
 ---
 ## DOCUMENTAÇÃO DE FUNCIONAMENTO
