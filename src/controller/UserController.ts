@@ -20,8 +20,6 @@ export class UserController {
                 password: req.body.password
             };
 
-            console.log(input)
-
             const token = await this.userBusiness.signup(input);
 
             res.status(201).send({ message, token });
