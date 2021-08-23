@@ -1,4 +1,16 @@
 # LABOOK
+- Este é um projeto básico de Backend, utilizando Typescript, MySQL, além das bibliotecas knexJs e expressJs, desenvolvido para atender aos modelos REST API.
+
+---
+## DESCRIÇÃO DO PROJETO
+
+- O projeto consiste em simular a metodologia CRUD na estruturação de Sistema de Posts de Rede Social, gerando e acessando informações de usuários e posts, sendo criado endpoints `GET` e `POST` para alimentar as demandas.
+
+---
+## DOCUMENTAÇÃO DE FUNCIONAMENTO
+
+### LINK DA DOCUMENTAÇÃO NO POSTMAN: https://documenter.getpostman.com/view/15825773/Tzz8sHfv
+
 
 ## Endpoints
 
